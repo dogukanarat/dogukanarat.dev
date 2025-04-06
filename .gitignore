@@ -1,0 +1,41 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Ignore OS and editor specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+
+# Node.js dependencies (if using npm/yarn for assets)
+node_modules/
+
+# Python virtualenv (if any scripts use Python)
+.venv/
+venv/
+
+# Log files
+*.log
+
+# Netlify or other deploy previews
+/netlify/
+
+# Backup files
+*~
+*.tmp
+
+# VSCode settings
+.vscode/
+
+# Hugo caches
+.cache/
+
+# Local environment files
+.env
+.env.*
+
+# IDEs
+.idea/
