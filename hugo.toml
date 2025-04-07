@@ -8,7 +8,7 @@ contentDir = "content/en"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/dogukanarat"
 
 [[params.socialIcons]]
 name = "twitter"
