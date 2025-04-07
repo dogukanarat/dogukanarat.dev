@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Dogukan Arat - Personal Website</title>
+    <link>https://dogukanarat.dev/pages/</link>
+    <description>Recent content in Pages on Dogukan Arat - Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="https://dogukanarat.dev/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://dogukanarat.dev/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dogukanarat.dev/pages/about/</guid>
+      
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;I’m an embedded systems engineer with hands-on experience across the full stack of embedded development — from bare-metal firmware and real-time operating systems to Linux-based application design. My work spans a wide range of domains, including aerospace, IoT, and satellite systems.&lt;/p&gt;
+&lt;p&gt;I’ve contributed to the development of safety-critical flight control software (DO-178C Level A), built embedded middleware such as NOR flash fail-safe file systems, and implemented communication stacks over UART, SPI, I2C, CAN, and RF protocols like LoRa and LoRaWAN. I’ve also worked on attitude determination and control systems (ADCS), including BLDC motor drivers for reaction wheel assemblies.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

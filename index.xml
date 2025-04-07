@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dogukan Arat - Personal Website</title>
+    <link>https://dogukanarat.dev/</link>
+    <description>Recent content on Dogukan Arat - Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 08 Apr 2025 00:07:36 +0300</lastBuildDate><atom:link href="https://dogukanarat.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Realtime Operating Systems</title>
+      <link>https://dogukanarat.dev/posts/realtime-operating-systems/</link>
+      <pubDate>Tue, 08 Apr 2025 00:07:36 +0300</pubDate>
+      
+      <guid>https://dogukanarat.dev/posts/realtime-operating-systems/</guid>
+      
+      <description>&lt;h1 id=&#34;what-is-the-real-time-operating-system&#34;&gt;What is the Real-Time Operating System?&lt;/h1&gt;
+&lt;p&gt;Real-time operating systems (RTOS) are specialized operating systems focused on &lt;strong&gt;deterministic task scheduling&lt;/strong&gt; and &lt;strong&gt;precise timing guarantees&lt;/strong&gt;. Unlike general-purpose operating systems like Windows or Linux, RTOS ensures that tasks execute within strictly defined time constraints.&lt;/p&gt;
+&lt;h2 id=&#34;key-characteristics&#34;&gt;Key Characteristics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Predictable Timing&lt;/strong&gt;: Tasks are guaranteed to run in given periods&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deterministic Behavior&lt;/strong&gt;: Consistent response times for system events&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Priority-based Scheduling&lt;/strong&gt;: Critical tasks get priority execution&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time Window Management&lt;/strong&gt;: Strict adherence to timing constraints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;common-misconceptions&#34;&gt;Common Misconceptions&lt;/h2&gt;
+&lt;p&gt;Many developers initially view RTOS as a magical solution that automatically makes applications run in real-time. However, this is a misconception. Here&amp;rsquo;s why:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dogukanarat.dev/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dogukanarat.dev/pages/about/</guid>
+      
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;I’m an embedded systems engineer with hands-on experience across the full stack of embedded development — from bare-metal firmware and real-time operating systems to Linux-based application design. My work spans a wide range of domains, including aerospace, IoT, and satellite systems.&lt;/p&gt;
+&lt;p&gt;I’ve contributed to the development of safety-critical flight control software (DO-178C Level A), built embedded middleware such as NOR flash fail-safe file systems, and implemented communication stacks over UART, SPI, I2C, CAN, and RF protocols like LoRa and LoRaWAN. I’ve also worked on attitude determination and control systems (ADCS), including BLDC motor drivers for reaction wheel assemblies.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
