@@ -1,4 +1,4 @@
-baseURL = 'https://dogukanarat.github.io/dogukanarat.dev/'
+baseURL = 'https://dogukanarat.dev'
 languageCode = 'en-us'
 title = 'Dogukan Arat - Personal Website'
 theme = "hugo-blog-awesome"
