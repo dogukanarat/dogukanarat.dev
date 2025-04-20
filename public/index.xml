@@ -6,7 +6,20 @@
     <description>Recent content on Dogukan Arat - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 08 Apr 2025 00:07:36 +0300</lastBuildDate><atom:link href="https://dogukanarat.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 15:00:00 +0300</lastBuildDate><atom:link href="https://dogukanarat.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dogukanarat.dev/pages/about/</link>
+      <pubDate>Sun, 20 Apr 2025 15:00:00 +0300</pubDate>
+      
+      <guid>https://dogukanarat.dev/pages/about/</guid>
+      
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;I discovered my passion for embedded systems early on—long before smartphones and IoT became household terms. I went on to earn my BSc in Electrics and Electronics Engineering in the late 2010s, immersing myself in the marriage of hardware and software. Since then, I’ve built my career around writing efficient, reliable firmware and low‑level drivers for everything from FCC(Flight Control Computer) computers of supersonic advanced jet trainer to ADCS(Attitude Determination and Control System) computers of LEO satellites. Besides my work in the aerospace industry, I’ve also dabbled in IoT consumer electronics and automotive systems, where I’ve honed my skills in real‑time operating systems (RTOS), low‑level programming, and hardware design.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Realtime Operating Systems</title>
       <link>https://dogukanarat.dev/posts/realtime-operating-systems/</link>
@@ -25,19 +38,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;common-misconceptions&#34;&gt;Common Misconceptions&lt;/h2&gt;
 &lt;p&gt;Many developers initially view RTOS as a magical solution that automatically makes applications run in real-time. However, this is a misconception. Here&amp;rsquo;s why:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dogukanarat.dev/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dogukanarat.dev/pages/about/</guid>
-      
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;I’m an embedded systems engineer with hands-on experience across the full stack of embedded development — from bare-metal firmware and real-time operating systems to Linux-based application design. My work spans a wide range of domains, including aerospace, IoT, and satellite systems.&lt;/p&gt;
-&lt;p&gt;I’ve contributed to the development of safety-critical flight control software (DO-178C Level A), built embedded middleware such as NOR flash fail-safe file systems, and implemented communication stacks over UART, SPI, I2C, CAN, and RF protocols like LoRa and LoRaWAN. I’ve also worked on attitude determination and control systems (ADCS), including BLDC motor drivers for reaction wheel assemblies.&lt;/p&gt;</description>
       
     </item>
     
