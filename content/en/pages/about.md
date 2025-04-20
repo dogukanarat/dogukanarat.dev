@@ -1,5 +1,6 @@
 +++
 title = "About"
+draft = false
 date = "2025-04-20T15:00:00+03:00"
 +++
 <h1>About</h1>
