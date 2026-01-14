@@ -1,0 +1,83 @@
+// Custom styles for dogukanarat.dev
+
+// Smooth link transitions
+a {
+  transition: color 0.2s ease-in-out;
+}
+
+// Enhanced code blocks
+pre {
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+// Better blockquote styling
+blockquote {
+  border-radius: 4px;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+// Project cards styling (for projects page)
+.project-card {
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+}
+
+// Horizontal rule styling
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.2), transparent);
+  margin: 2rem 0;
+}
+
+// Enhanced avatar on home page
+.home-avatar img {
+  transition: transform 0.3s ease;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+// Better table styling
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+
+  th, td {
+    padding: 0.75rem 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  th {
+    font-weight: 700;
+  }
+}
+
+// Footer social icons hover effect
+.social-icons a {
+  transition: transform 0.2s ease, opacity 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    opacity: 0.8;
+  }
+}
+
+// Reading progress indicator (subtle top border on articles)
+article.post {
+  border-top: 3px solid $dark-text-link-blue;
+  padding-top: 1rem;
+}

@@ -6,13 +6,34 @@ defaultContentLanguage = "en-gb"
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
 contentDir = "content/en"
 
+# Google Analytics configuration
+# Replace "G-XXXXXXXXXX" with your actual Google Analytics 4 Measurement ID
+[services]
+  [services.googleAnalytics]
+    ID = "G-3NM74Z8E1B"
+
+# SEO and site verification
+[params]
+  env = "production" # enables Google Analytics in production
+  keywords = ["embedded software", "software engineering", "technology", "Dogukan Arat", "blog", "RTOS", "embedded systems"]
+  ogimage = "/avatar.png" # default Open Graph image
+
+  # Enable robots meta tag
+  [params.robots]
+    index = true
+    follow = true
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/dogukanarat"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "linkedin"
+url = "https://linkedin.com/in/dogukanarat"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:aratdogukan@gmail.com"
 
 [[params.socialIcons]]
 name = "Rss"
@@ -39,9 +60,14 @@ url = "/index.xml"
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
-    pageRef="about"
+    pageRef="pages/projects"
+    name = 'Projects'
+    url = '/pages/projects/'
+    weight = 25
+  [[Languages.en-gb.menu.main]]
+    pageRef="pages/about"
     name = 'About'
-    url = '/about/'
+    url = '/pages/about/'
     weight = 30
 
 [Languages.en-gb.params]

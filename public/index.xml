@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dogukan Arat - Personal Website</title>
-    <link>https://dogukanarat.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Dogukan Arat - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Apr 2025 15:00:00 +0300</lastBuildDate><atom:link href="https://dogukanarat.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 15:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://dogukanarat.dev/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Sun, 20 Apr 2025 15:00:00 +0300</pubDate>
       
-      <guid>https://dogukanarat.dev/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
@@ -21,11 +21,31 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/pages/projects/</link>
+      <pubDate>Sun, 20 Apr 2025 15:00:00 +0300</pubDate>
+      
+      <guid>http://localhost:1313/pages/projects/</guid>
+      
+      <description>&lt;h2 id=&#34;featured-projects&#34;&gt;Featured Projects&lt;/h2&gt;
+&lt;p&gt;A selection of my embedded systems and aerospace engineering projects.&lt;/p&gt;
+&lt;h3 id=&#34;flight-control-systems&#34;&gt;Flight Control Systems&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;FCC Firmware Development&lt;/strong&gt;
+Developed safety-critical firmware for flight control computers used in supersonic advanced jet trainers. Implemented real-time control loops, redundancy management, and MIL-STD-1553 bus communication.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Technologies: C, RTOS, MIL-STD-1553, DO-178C&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;satellite-systems&#34;&gt;Satellite Systems&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;ADCS Computer Software&lt;/strong&gt;
+Designed and implemented attitude determination and control system software for LEO satellites. Includes sensor fusion algorithms, Kalman filtering, and reaction wheel control.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Realtime Operating Systems</title>
-      <link>https://dogukanarat.dev/posts/realtime-operating-systems/</link>
+      <link>http://localhost:1313/posts/realtime-operating-systems/</link>
       <pubDate>Tue, 08 Apr 2025 00:07:36 +0300</pubDate>
       
-      <guid>https://dogukanarat.dev/posts/realtime-operating-systems/</guid>
+      <guid>http://localhost:1313/posts/realtime-operating-systems/</guid>
       
       <description>&lt;h1 id=&#34;what-is-the-real-time-operating-system&#34;&gt;What is the Real-Time Operating System?&lt;/h1&gt;
 &lt;p&gt;Real-time operating systems (RTOS) are specialized operating systems focused on &lt;strong&gt;deterministic task scheduling&lt;/strong&gt; and &lt;strong&gt;precise timing guarantees&lt;/strong&gt;. Unlike general-purpose operating systems like Windows or Linux, RTOS ensures that tasks execute within strictly defined time constraints.&lt;/p&gt;

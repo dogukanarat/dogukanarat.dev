@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Dogukan Arat - Personal Website</title>
-    <link>https://dogukanarat.dev/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Dogukan Arat - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Apr 2025 15:00:00 +0300</lastBuildDate><atom:link href="https://dogukanarat.dev/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 15:00:00 +0300</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://dogukanarat.dev/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Sun, 20 Apr 2025 15:00:00 +0300</pubDate>
       
-      <guid>https://dogukanarat.dev/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;p&gt;I discovered my passion for embedded systems early on—long before smartphones and IoT became household terms. I went on to earn my BSc in Electrics and Electronics Engineering in the late 2010s, immersing myself in the marriage of hardware and software. Since then, I’ve built my career around writing efficient, reliable firmware and low‑level drivers for everything from FCC(Flight Control Computer) computers of supersonic advanced jet trainer to ADCS(Attitude Determination and Control System) computers of LEO satellites. Besides my work in the aerospace industry, I’ve also dabbled in IoT consumer electronics and automotive systems, where I’ve honed my skills in real‑time operating systems (RTOS), low‑level programming, and hardware design.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/pages/projects/</link>
+      <pubDate>Sun, 20 Apr 2025 15:00:00 +0300</pubDate>
+      
+      <guid>http://localhost:1313/pages/projects/</guid>
+      
+      <description>&lt;h2 id=&#34;featured-projects&#34;&gt;Featured Projects&lt;/h2&gt;
+&lt;p&gt;A selection of my embedded systems and aerospace engineering projects.&lt;/p&gt;
+&lt;h3 id=&#34;flight-control-systems&#34;&gt;Flight Control Systems&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;FCC Firmware Development&lt;/strong&gt;
+Developed safety-critical firmware for flight control computers used in supersonic advanced jet trainers. Implemented real-time control loops, redundancy management, and MIL-STD-1553 bus communication.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Technologies: C, RTOS, MIL-STD-1553, DO-178C&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;satellite-systems&#34;&gt;Satellite Systems&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;ADCS Computer Software&lt;/strong&gt;
+Designed and implemented attitude determination and control system software for LEO satellites. Includes sensor fusion algorithms, Kalman filtering, and reaction wheel control.&lt;/p&gt;</description>
       
     </item>
     
