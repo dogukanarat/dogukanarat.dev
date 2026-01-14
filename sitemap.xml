@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dogukanarat.dev/pages/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
     <lastmod>2025-04-20T15:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://dogukanarat.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-20T15:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://dogukanarat.dev/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2025-04-20T15:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://dogukanarat.dev/posts/</loc>
+    <loc>http://localhost:1313/pages/projects/</loc>
+    <lastmod>2025-04-20T15:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-04-08T00:07:36+03:00</lastmod>
   </url><url>
-    <loc>https://dogukanarat.dev/posts/realtime-operating-systems/</loc>
+    <loc>http://localhost:1313/posts/realtime-operating-systems/</loc>
     <lastmod>2025-04-08T00:07:36+03:00</lastmod>
   </url><url>
-    <loc>https://dogukanarat.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://dogukanarat.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
